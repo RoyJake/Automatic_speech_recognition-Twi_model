@@ -1,0 +1,4 @@
+# ignore all .arrow files if you never want to track them:
+*.arrow
+evaluation/1_Mose_PD/train_dataset/data-00000-of-00001.arrow
+evaluation/1_Mose_PD/test_dataset/data-00000-of-00001.arrow
